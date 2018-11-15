@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/MvcGridView/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/MvcGridView/Controllers/HomeController.vb))
+* [Default.aspx.cs](./CS/MvcGridView/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/MvcGridView/Default.aspx.vb))
+* [Global.asax.cs](./CS/MvcGridView/Global.asax.cs) (VB: [Global.asax.vb](./VB/MvcGridView/Global.asax.vb))
+* [Customer.cs](./CS/MvcGridView/Models/Customer.cs) (VB: [Customer.vb](./VB/MvcGridView/Models/Customer.vb))
+* [Order.cs](./CS/MvcGridView/Models/Order.cs) (VB: [Order.vb](./VB/MvcGridView/Models/Order.vb))
+* [Index.aspx](./CS/MvcGridView/Views/Home/Index.aspx) (VB: [Index.aspx](./VB/MvcGridView/Views/Home/Index.aspx))
+* [Site.Master](./CS/MvcGridView/Views/Shared/Site.Master) (VB: [Site.Master](./VB/MvcGridView/Views/Shared/Site.Master))
+<!-- default file list end -->
 # How to use XPO in ASP.NET MVC 1.0
 
 
